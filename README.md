@@ -14,4 +14,4 @@
 ![tauri](https://user-images.githubusercontent.com/95353984/171046654-c941f623-cf35-427e-9abe-bec82b8db01c.png)
 ![svelte](https://user-images.githubusercontent.com/95353984/171047452-ab09a480-2178-4abc-b296-a4e1e1ef82c3.png)
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![EncryptedEasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=EncryptedEasty&show_icons=true&theme=dark&count_private=true)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![EncryptedEasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=EncryptedEasty&show_icons=true&theme=dark&count_private=true)
