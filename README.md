@@ -2,7 +2,7 @@
 ### ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Hi there :wave:  I'm EncryptedEasty!
 ⠀⠀⠀⠀⠀⠀⠀I'm a web developer from Italy. I'm currently working on a few personal projects, and sometimes open-source some of them!
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![linux](https://user-images.githubusercontent.com/95353984/171041262-a1050c12-c293-47e7-a92c-69e4f01196a0.png)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![linux](https://user-images.githubusercontent.com/95353984/171041262-a1050c12-c293-47e7-a92c-69e4f01196a0.png)
 ![js_badge](https://user-images.githubusercontent.com/95353984/171041279-4b777a17-108f-4d2a-8c7a-b00427a1029e.png)
 ![css3](https://user-images.githubusercontent.com/95353984/171041287-5a3f2f3c-31f6-4f44-add6-65a0ef638771.png)
 ![html5](https://user-images.githubusercontent.com/95353984/171041309-28158aa7-f3d4-4519-a855-0bd2f8b38a6d.png)
