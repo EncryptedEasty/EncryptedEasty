@@ -12,4 +12,4 @@
 ![markdown](https://user-images.githubusercontent.com/95353984/171041429-e9cebbd9-d728-4429-988f-98c3907b2dfe.png)
 ![git](https://user-images.githubusercontent.com/95353984/171041454-4ee0cf89-a058-4769-a408-e64a43f2c0bd.png)
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![EncryptedEasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=EncryptedEasty&show_icons=true&theme=dark&count_private=true)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![EncryptedEasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=EncryptedEasty&show_icons=true&theme=dark&count_private=true)
