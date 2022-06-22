@@ -15,3 +15,5 @@
 ![svelte](https://user-images.githubusercontent.com/95353984/171047452-ab09a480-2178-4abc-b296-a4e1e1ef82c3.png)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![EncryptedEasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=EncryptedEasty&show_icons=true&theme=dark&count_private=true)
+
+###### ⠀⠀⠀⠀⠀⠀⠀⠀⠀*This README contains special unicode characters that center the text, you may or may not see this page correctly*
